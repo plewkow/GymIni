@@ -1,0 +1,69 @@
+{
+  "training_plan": {
+    "day 1": {
+      "body_part": "Upper Body (Chest Focus)",
+      "workout": [
+        { "exercise": "Barbell Bench Press", "sets": "3-4", "reps": "6-10", "kgs_guidance": "Challenging heavy weight" },
+        { "exercise": "Incline Dumbbell Press", "sets": "3", "reps": "8-12", "kgs_guidance": "Challenging weight" },
+        { "exercise": "Lat Pulldown", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate to challenging weight" },
+        { "exercise": "Seated Cable Row", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate to challenging weight" },
+        { "exercise": "Overhead Dumbbell Press (Seated)", "sets": "3", "reps": "8-12", "kgs_guidance": "Challenging weight" },
+        { "exercise": "Tricep Pushdown (Rope Attachment)", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate weight, focus on contraction" },
+        { "exercise": "Dumbbell Bicep Curl", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate weight, focus on contraction" }
+      ]
+    },
+    "day 2": {
+      "body_part": "Lower Body (Legs)",
+      "workout": [
+        { "exercise": "Barbell Squat", "sets": "3-4", "reps": "6-10", "kgs_guidance": "Challenging heavy weight" },
+        { "exercise": "Romanian Deadlift (RDL)", "sets": "3", "reps": "8-12", "kgs_guidance": "Challenging weight, focus on hamstring stretch" },
+        { "exercise": "Leg Press", "sets": "3", "reps": "10-15", "kgs_guidance": "Challenging weight" },
+        { "exercise": "Leg Extension", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate weight, focus on quad contraction" },
+        { "exercise": "Hamstring Curl (Lying or Seated)", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate weight, focus on hamstring contraction" },
+        { "exercise": "Standing Calf Raises", "sets": "3", "reps": "15-20", "kgs_guidance": "Moderate weight, full range of motion" },
+        { "exercise": "Plank", "sets": "3", "reps": "Hold for 30-60 seconds", "kgs_guidance": "Bodyweight" }
+      ]
+    },
+    "day 3": {
+      "body_part": "Rest / Active Recovery",
+      "workout": [
+        { "exercise": "Light Cardio (e.g., walk, cycling)", "sets": "1", "reps": "30-45 minutes", "kgs_guidance": "Low intensity" }
+      ]
+    },
+    "day 4": {
+      "body_part": "Upper Body (Back & Shoulder Focus)",
+      "workout": [
+        { "exercise": "Pull-ups (or Assisted/Lat Pulldown)", "sets": "3", "reps": "As many as possible / 8-12", "kgs_guidance": "Bodyweight or challenging weight" },
+        { "exercise": "Bent-Over Barbell Row", "sets": "3", "reps": "8-12", "kgs_guidance": "Challenging weight" },
+        { "exercise": "Dumbbell Bench Press", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate to challenging weight" },
+        { "exercise": "Lateral Raises (Dumbbell or Cable)", "sets": "3", "reps": "12-15", "kgs_guidance": "Light to moderate weight, focus on form" },
+        { "exercise": "Face Pulls", "sets": "3", "reps": "12-15", "kgs_guidance": "Moderate weight, focus on rear delt contraction" },
+        { "exercise": "Overhead Tricep Extension (Dumbbell)", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate weight, controlled movement" },
+        { "exercise": "Hammer Curls (Dumbbell)", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate weight, controlled movement" }
+      ]
+    },
+    "day 5": {
+      "body_part": "Lower Body (Legs & Glute Focus)",
+      "workout": [
+        { "exercise": "Leg Press", "sets": "3-4", "reps": "8-12", "kgs_guidance": "Challenging weight" },
+        { "exercise": "Bulgarian Split Squat", "sets": "3", "reps": "8-12 per leg", "kgs_guidance": "Bodyweight or challenging dumbbells" },
+        { "exercise": "Glute Bridges / Hip Thrusts", "sets": "3", "reps": "10-15", "kgs_guidance": "Moderate to challenging weight" },
+        { "exercise": "Leg Extension", "sets": "3", "reps": "12-15", "kgs_guidance": "Moderate weight, focus on quad contraction" },
+        { "exercise": "Seated Calf Raises", "sets": "3", "reps": "15-20", "kgs_guidance": "Moderate weight, full range of motion" },
+        { "exercise": "Reverse Crunches", "sets": "3", "reps": "15-20", "kgs_guidance": "Bodyweight" }
+      ]
+    },
+    "day 6": {
+      "body_part": "Rest / Active Recovery",
+      "workout": [
+        { "exercise": "Stretching & Mobility", "sets": "1", "reps": "20-30 minutes", "kgs_guidance": "Bodyweight" }
+      ]
+    },
+    "day 7": {
+      "body_part": "Rest / Optional Light Cardio",
+      "workout": [
+        { "exercise": "Light Walk", "sets": "1", "reps": "30-60 minutes", "kgs_guidance": "Low intensity" }
+      ]
+    }
+  }
+}
